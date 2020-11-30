@@ -12,3 +12,6 @@ we performed subjective tests to measure the perceptual qualities of decoded HDR
 
 ## Explain files in folder
 In SubjectiveTestVideos folder, There are 4 test videos and 4 text files for 4 QP values (22, 27, 32, and 37). The one subjective test video file is composed to the 20 encoded videos (reference video(without preprocessing) and degraded video(with preprocessing)) for total 10 test 4K-UHD/10-bit HDR videos. And the orders of reference and degraded video are randomly determined. The determined orders are noted in text files.  
+
+## Training and Testing code
+TBD
